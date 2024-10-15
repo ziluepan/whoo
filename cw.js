@@ -1,4 +1,4 @@
-importScripts('https://unpkg.com/clientworker@3.0.0-beta-2/dist/cw.js')
+importScripts('https://unpkg.com/clientworker@2.7.1/dist/cw.js')
 importScripts('https://npm.sourcegcdn.com/marked@4.0.18/marked.min.js')
 
 const list_post = async (args) =>{
